@@ -1,4 +1,4 @@
-# skype IP Resolver
+# Skype IP Resolver
 
 This is a Python script that retrieves the reverse IP for a given domain name using the "resolvethem.com" website. It utilizes the `requests` and `beautifulsoup4` libraries for web scraping and HTML parsing.
 
