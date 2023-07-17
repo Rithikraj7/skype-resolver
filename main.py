@@ -31,8 +31,7 @@ def get_reverse_from_resolvethem(name):
 
     return False
 
-
-# Example usage
+# enter the name
 name_to_resolve = "name"
 reverse_ip = get_reverse_from_resolvethem(name_to_resolve)
 
